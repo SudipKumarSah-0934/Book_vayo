@@ -1,0 +1,4 @@
+#Fri Jan 28 18:13:22 BDT 2022
+base.0=D\:\\Figma_design-master\\Figma_design-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
